@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1601403312 source:c:\users\usuario\dropbox\ifsuldeminas\aed 2\6. tad\proj1\operacoesmatematicas.cpp
+	"OperacoesMatematicas.h"
+
+1601401991 c:\users\usuario\dropbox\ifsuldeminas\aed 2\6. tad\proj1\operacoesmatematicas.h
+
+1601403313 source:c:\users\usuario\dropbox\ifsuldeminas\aed 2\6. tad\proj1\main.cpp
+	<bits/stdc++.h>
+	"OperacoesMatematicas.h"
+

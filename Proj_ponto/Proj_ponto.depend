@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1601408814 source:c:\users\usuario\dropbox\ifsuldeminas\aed 2\6. tad\proj_ponto\ponto.cpp
+	<bits/stdc++.h>
+	"ponto.h"
+
+1601406978 c:\users\usuario\dropbox\ifsuldeminas\aed 2\6. tad\proj_ponto\ponto.h
+
+1601408858 source:c:\users\usuario\dropbox\ifsuldeminas\aed 2\6. tad\proj_ponto\main.cpp
+	<bits/stdc++.h>
+	"ponto.h"
+
